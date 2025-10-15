@@ -16,7 +16,7 @@ tags = "tags"
 categories = "categories"
 
 [params]
-title="TeXify3"
+title="Tyler Ryan"
 author = "Michael Neuper"
 description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
 footnote = """
