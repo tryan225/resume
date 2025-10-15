@@ -6,7 +6,7 @@ hasCJKLanguage = true
 languageCode = "en"
 rssLimit = 10
 theme = "hugo-texify3"
-title = "TeXify3"
+title = "Tyler Ryan"
 
 [pagination]
 pagerSize = 5
@@ -18,8 +18,8 @@ categories = "categories"
 
 [params]
 title="Tyler Ryan"
-author = "Michael Neuper"
-description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
+author = "Tyler Ryan"
+description = "Tyler Ryan's resume"
 footnote = """
 Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
 Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
