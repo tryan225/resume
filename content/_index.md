@@ -1,20 +1,8 @@
 ## Professional Summary
 
-Seattle-based systems engineer with experience in cloud computing, containerization & Kubernetes, infrastructure as code, web applications, software defined networks, automation, continuous integration/continuous delivery, and distributed systems. My background is comprised of a mix of retail and healthcare enterprise systems, and software startups.<br>
+Seattle-based systems engineer with experience in cloud computing, containerization & Kubernetes, infrastructure as code, web applications, software defined networks, automation, continuous integration/continuous delivery, and distributed systems. My background is in retail IT infrastructure, enterprise healthcare systems, and software startups.
 
 ---
-
-## Technical Skills<br>
-
-- Infrastructure as code: Git, AWS CDK, Terraform, Pulumi, Ansible, Chef, Puppet
-- Containerization: Docker, Kubernetes
-- CI/CD: GitHub Actions, Jenkins
-- Languages: Python, Bash, Go, SQL, LaTeX
-- Cloud Computing: AWS, GCP<br>
-
----
-
-## Professional Experience<br>
 
 ### Systems Engineer
 #### Robin 
@@ -46,7 +34,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Designed and deployed infrastructure using Python and Pulumi to support Vault and Consul on Kubernetes
 - Developed and maintained Kafka based event streaming infrastructure
 - Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
-- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts  <br>
+- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
 
 ---
 
@@ -59,7 +47,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Reproduced and resolved complex networking & infrastructure issues on Linux, Windows Server, AWS, GCP, Azure, Kubernetes, and Docker
 - Created reusable Terraform code for team that simplified environment reproduction
 - Debugged Go code and contributed bugfixes to Consul codebase, improving product reliability
-- Created customer facing documentation, including comprehensive guides for deploying Consul<br>
+- Created customer facing documentation, including comprehensive guides for deploying Consul
 
 ---
 
@@ -70,7 +58,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 
 - Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
 - Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
-- Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system<br>
+- Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
 
 ---
 
@@ -81,7 +69,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 
 - Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
 - Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
-- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts<br>
+- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
 
 ---
 
@@ -91,7 +79,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 **Location:** Olympia, WA
 
 - Supported developers and deployments in a Windows-based IBM Websphere J2EE environment
-- Developed automated performance and load testing scripts for developers(JMeter, SoapUI)<br>
+- Developed automated performance and load testing scripts for developers(JMeter, SoapUI)
 
 ---
 
@@ -105,7 +93,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Supported Linux infrastructure hosting Cerner's big data population health platform
 - Contributed to infrastructure as code initiatives using Chef cookbooks/recipes and automation scripts
 - Deployed orchestration tools (Rundeck, Jenkins) to enable developers to deploy code efficiently
-- Wrote PowerShell scripts to automate tasks<br>
+- Wrote PowerShell scripts to automate tasks
 
 ---
 
@@ -116,7 +104,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 
 - Built custom database objects, SQL scripts, and stored procedures for healthcare data management
 - Administrated Windows Servers (SQL Servers, IIS, Active Directory) and deployed code changes
-- Maintained company website and trained staff on site maintenance and customization<br>
+- Maintained company website and trained staff on site maintenance and customization
 
 ---
 
@@ -125,7 +113,17 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 #### May 2013 - May 2014
 **Location:** Kalamazoo, MI
 
-- Supported Windows desktop hardware, software, device imaging, and Active Directory for the public library<br>
+- Supported Windows desktop hardware, software, device imaging, and Active Directory for the public library
+
+---
+
+## Technical Skills
+
+- Infrastructure as code: Git, AWS CDK, Terraform, Pulumi, Ansible, Chef, Puppet
+- Containerization: Docker, Kubernetes
+- CI/CD: GitHub Actions, Jenkins
+- Languages: Python, Bash, Go, SQL, LaTeX
+- Cloud Computing: AWS, GCP
 
 ---
 
@@ -133,7 +131,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 
 ### Bachelor of Business Administration in Computer Information Systems
 **Western Michigan University** | September 2011 - December 2014  
-**Location:** Kalamazoo, Michigan<br>
+**Location:** Kalamazoo, Michigan
 
 ---
 
