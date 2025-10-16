@@ -1,6 +1,6 @@
 ## Professional Summary
 
-Systems engineer with experience in cloud computing, containerization & Kubernetes, infrastructure as code, software defined networks, automation, continuous integration/continuous delivery, and distributed systems.<br>
+Seattle-based systems engineer with experience in cloud computing, containerization & Kubernetes, infrastructure as code, web applications, software defined networks, automation, continuous integration/continuous delivery, and distributed systems. My background is comprised of a mix of retail and healthcare enterprise systems, and software startups.<br>
 
 ---
 
@@ -33,7 +33,13 @@ Systems engineer with experience in cloud computing, containerization & Kubernet
 - Helped maintain Kubernetes API wrapper in Go, contributing bugfixes and new features to codebase
 - Created developer tools and automation scripts in Python, Bash to streamline developer workflows, dependency and configuration management
 - Automated all deployment processes (CDK, Terraform) using GitHub Actions
-- Tuned infrastructure for efficient resource utilization and cost optimization<br>
+- Tuned infrastructure for efficient resource utilization and cost optimization         
+
+
+
+
+
+
 
 ### Senior Software Engineer
 #### REI Co-op
