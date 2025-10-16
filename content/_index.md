@@ -35,11 +35,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Automated all deployment processes (CDK, Terraform) using GitHub Actions
 - Tuned infrastructure for efficient resource utilization and cost optimization         
 
-
-
-
-
-
+---
 
 ### Senior Software Engineer
 #### REI Co-op
@@ -52,6 +48,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
 - Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts  <br>
 
+---
 
 ### Senior Support Engineer 
 #### HashiCorp
@@ -64,6 +61,8 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Debugged Go code and contributed bugfixes to Consul codebase, improving product reliability
 - Created customer facing documentation, including comprehensive guides for deploying Consul<br>
 
+---
+
 ### Systems Engineer
 #### REI Co-op
 #### December 2017 - February 2019
@@ -72,6 +71,8 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
 - Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
 - Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system<br>
+
+---
 
 ### Systems Engineer 
 #### REI Co-op
@@ -82,6 +83,8 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
 - Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts<br>
 
+---
+
 ### Information Technology Specialist 
 #### State of Washington
 #### July 2017 - December 2017
@@ -89,6 +92,8 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 
 - Supported developers and deployments in a Windows-based IBM Websphere J2EE environment
 - Developed automated performance and load testing scripts for developers(JMeter, SoapUI)<br>
+
+---
 
 ### System Engineer 
 #### Oracle Health (formerly Cerner)
@@ -102,6 +107,8 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Deployed orchestration tools (Rundeck, Jenkins) to enable developers to deploy code efficiently
 - Wrote PowerShell scripts to automate tasks<br>
 
+---
+
 ### Systems Analyst 
 #### Streamline Healthcare Solutions
 #### May 2014 - May 2015
@@ -110,6 +117,8 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Built custom database objects, SQL scripts, and stored procedures for healthcare data management
 - Administrated Windows Servers (SQL Servers, IIS, Active Directory) and deployed code changes
 - Maintained company website and trained staff on site maintenance and customization<br>
+
+---
 
 ### Tech Intern 
 #### Kalamazoo Public Library 
