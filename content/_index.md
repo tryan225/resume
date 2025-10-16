@@ -16,7 +16,9 @@ Systems engineer with experience in Linux, cloud computing, containerization & K
 
 ## Professional Experience
 
-### Systems Engineer | Robin | January 2022 - July 2025
+### Systems Engineer
+### Robin 
+### January 2022 - July 2025
 **Location:** Boston, MA (Remote)
 
 - Created cloud infrastructure across GCP and AWS using Python, Pulumi, CDK, Helm, and Terraform
@@ -32,8 +34,11 @@ Systems engineer with experience in Linux, cloud computing, containerization & K
 - Created developer tools and automation scripts in Python, Bash to streamline developer workflows, dependency and configuration management
 - Automated all deployment processes (CDK, Terraform) using GitHub Actions
 - Tuned infrastructure for efficient resource utilization and cost optimization
+<br/><br/>
 
-### Senior Software Engineer | REI Co-op |  September 2020 - January 2022
+### Senior Software Engineer
+### REI Co-op
+### September 2020 - January 2022
 **Location:** Seattle, WA
 
 - Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
@@ -42,7 +47,9 @@ Systems engineer with experience in Linux, cloud computing, containerization & K
 - Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
 - Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
 
-### Senior Support Engineer | HashiCorp | February 2019 - September 2020
+### Senior Support Engineer 
+### HashiCorp
+### February 2019 - September 2020
 **Location:** San Francisco, CA (Remote)
 
 - Provided 24/7 tier 1 support for complex Consul service mesh networking environments
@@ -50,30 +57,40 @@ Systems engineer with experience in Linux, cloud computing, containerization & K
 - Created reusable Terraform code for team that simplified environment reproduction
 - Debugged Go code and contributed bugfixes to Consul codebase, improving product reliability
 - Created customer facing documentation, including comprehensive guides for deploying Consul
+<br/><br/>
 
-### Systems Engineer | REI Co-op | December 2017 - February 2019
+### Systems Engineer
+### REI Co-op
+### December 2017 - February 2019
+**Location:** Seattle, WA
+
+- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
+- Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
+- Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
+<br/><br/>
+
+### Systems Engineer 
+### REI Co-op
+### December 2017 - February 2019
 **Location:** Seattle, WA
 
 - Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
-- Designed and deployed infrastructure using Python and Pulumi to support Vault and Consul on Kubernetes
-- Developed and maintained Kafka based event streaming infrastructure
 - Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
 - Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
+<br/><br/>
 
-### Systems Engineer | REI Co-op | December 2017 - February 2019
-**Location:** Seattle, WA
-
-- Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
-- Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
-- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
-
-### Information Technology Specialist | State of Washington | July 2017 - December 2017
+### Information Technology Specialist 
+### State of Washington
+### July 2017 - December 2017
 **Location:** Olympia, WA
 
 - Supported developers and deployments in a Windows-based IBM Websphere J2EE environment
 - Developed automated performance and load testing scripts for developers(JMeter, SoapUI)
+<br/><br/>
 
-### System Engineer | Oracle Health (formerly Cerner) | May 2015 - June 2017
+### System Engineer 
+### Oracle Health (formerly Cerner)
+### May 2015 - June 2017
 **Location:** Kansas City, MO
 
 - Provided customer support for hospital IT staff implementing Cerner Millennium software
@@ -82,18 +99,25 @@ Systems engineer with experience in Linux, cloud computing, containerization & K
 - Contributed to infrastructure as code initiatives using Chef cookbooks/recipes and automation scripts
 - Deployed orchestration tools (Rundeck, Jenkins) to enable developers to deploy code efficiently
 - Wrote PowerShell scripts to automate tasks
+<br/><br/>
 
-### Systems Analyst | Streamline Healthcare Solutions | May 2014 - May 2015
+### Systems Analyst 
+### Streamline Healthcare Solutions
+### May 2014 - May 2015
 **Location:** Kalamazoo, MI
 
 - Built custom database objects, SQL scripts, and stored procedures for healthcare data management
 - Administrated Windows Servers (SQL Servers, IIS, Active Directory) and deployed code changes
 - Maintained company website and trained staff on site maintenance and customization
+<br/><br/>
 
-### Tech Intern | Kalamazoo Public Library | May 2013 - May 2014
+### Tech Intern 
+### Kalamazoo Public Library 
+### May 2013 - May 2014
 **Location:** Kalamazoo, MI
 
 - Supported Windows desktop hardware, software, device imaging, and Active Directory for the public library
+<br/><br/>
 
 ---
 
