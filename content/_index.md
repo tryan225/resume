@@ -1,6 +1,6 @@
 ## Professional Summary
 
-Systems engineer with experience in Linux, cloud computing, containerization & Kubernetes, infrastructure as code, software defined networks, automation, continuous integration/continuous delivery, and distributed systems.
+Systems engineer with experience in cloud computing, containerization & Kubernetes, infrastructure as code, software defined networks, automation, continuous integration/continuous delivery, and distributed systems.
 
 ---
 
@@ -45,7 +45,8 @@ Systems engineer with experience in Linux, cloud computing, containerization & K
 - Designed and deployed infrastructure using Python and Pulumi to support Vault and Consul on Kubernetes
 - Developed and maintained Kafka based event streaming infrastructure
 - Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
-- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
+- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts  
+
 
 ### Senior Support Engineer 
 ### HashiCorp
