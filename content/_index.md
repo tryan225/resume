@@ -62,17 +62,6 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 
 ---
 
-### Systems Engineer 
-#### REI Co-op
-#### December 2017 - February 2019
-**Location:** Seattle, WA
-
-- Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
-- Supported and maintained both on-prem and cloud (AWS) hosted Linux servers, Windows servers, middleware, message queuing (IBM MQ), and JVM infrastructure (IBM Websphere) for a legacy order management system
-- Developed infrastructure as code with Puppet and Ansible to manage on-prem Linux hosts
-
----
-
 ### Information Technology Specialist 
 #### State of Washington
 #### July 2017 - December 2017
