@@ -25,7 +25,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 
 ---
 
-### Senior Software Engineer
+### Systems Engineer, Sr
 #### REI Co-op
 #### September 2020 - January 2022
 **Location:** Seattle, WA
