@@ -28,7 +28,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 ### Systems Engineer, Sr
 #### REI Co-op
 #### September 2020 - January 2022
-**Location:** Seattle, WA
+**Location:** Seattle, WA (Remote)
 
 - Supported and maintained Docker-based microservice platform that hosted rei.com website and mobile app
 - Designed and deployed infrastructure using Python and Pulumi to support Vault and Consul on Kubernetes
