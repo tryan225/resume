@@ -1,6 +1,6 @@
 ## Professional Summary
 
-Seattle-based systems engineer with experience in cloud computing, containerization & Kubernetes, infrastructure as code, web applications, software defined networks, automation, continuous integration/continuous delivery, and distributed systems. My background is in retail IT infrastructure, enterprise healthcare systems, and software startups.
+Seattle-based systems engineer with experience in cloud computing, containerization & Kubernetes, observability, infrastructure as code, web applications, software defined networks, automation, continuous integration/continuous delivery, distributed systems, and SQL query engines. My background is in retail e-commerce infrastructure, enterprise healthcare systems, and software startups.
 
 ---
 
