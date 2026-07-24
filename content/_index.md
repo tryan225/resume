@@ -4,6 +4,24 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 
 ---
 
+### Site Reliability Engineer
+#### DAT Freight & Analytics 
+#### Februrary 2025 - Present
+**Location:** Seattle, WA
+
+---
+
+### Customer Support Engineer, Tier II
+#### Starburst 
+#### November 2025 - Februray 2026
+**Location:** Boston, MA (Remote)
+
+- Rapidly onboarded to provide technical support for distributed SQL query engine
+- Troubleshot deep technical issues from the Data Lakehouse layer to the query enginer runtime layer
+- Provided 24/7 on-call support for both self-hosted and SaaS SQL query engine
+
+---
+
 ### Systems Engineer
 #### Robin 
 #### January 2022 - July 2025
@@ -21,7 +39,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 - Helped maintain Kubernetes API wrapper in Go, contributing bugfixes and new features to codebase
 - Created developer tools and automation scripts in Python, Bash to streamline developer workflows, dependency and configuration management
 - Automated all deployment processes (CDK, Terraform) using GitHub Actions
-- Tuned infrastructure for efficient resource utilization and cost optimization         
+- Tuned infrastructure for efficient resource utilization and cost optimization
 
 ---
 
