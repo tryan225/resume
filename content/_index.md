@@ -17,7 +17,7 @@ Seattle-based systems engineer with experience in cloud computing, containerizat
 **Location:** Boston, MA (Remote)
 
 - Rapidly onboarded to provide technical support for distributed SQL query engine
-- Troubleshot deep technical issues from the Data Lakehouse layer to the query enginer runtime layer
+- Troubleshot deep technical issues from the Data Lakehouse layer to the query enginer runtime layer as well as data source connectors
 - Provided 24/7 on-call support for both self-hosted and SaaS SQL query engine
 
 ---
